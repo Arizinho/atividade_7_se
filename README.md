@@ -1,4 +1,4 @@
-# atividade_7_se# Sistema de Irrigação Inteligente com BitDogLab
+# Sistema de Irrigação Inteligente com BitDogLab
 
 Este projeto foi desenvolvido utilizando a placa BitDogLab. Seu objetivo é automatizar a irrigação com base na umidade do solo e no nível de água disponível no reservatório, utilizando sensores simulados por joystick e comunicação via protocolo MQTT.
 
